@@ -84,7 +84,9 @@ h4{
 }
 
 
-
+.icon-navbar{
+    display: none;
+}
 
 
 
@@ -574,5 +576,9 @@ hr{
         margin-top: -320px;
         margin-left: 170px;
     } 
+    
+.icon-navbar{
+    display: block;
+}
 
 }
